@@ -2,7 +2,7 @@
 // Database connection
 $servername = "mymysqlserver2025.mysql.database.azure.com";
 $username = "mysqlbenbrahim"; // Database username
-$password = "asAS@#123"; // Database password
+$password = "yourpassword"; // Database password
 $dbname = "clients_db"; // Database name
 
 // Create connection
